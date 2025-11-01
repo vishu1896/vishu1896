@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vishu1896
+- 👋 Hi, I’m Vrinda
 - 
 <!---
 vishu1896/vishu1896 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
